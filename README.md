@@ -41,6 +41,7 @@ int main() {
     }
     return 0;
 }
+
 ##OUTPUT
 <img width="798" height="186" alt="image" src="https://github.com/user-attachments/assets/a685c78f-be00-49f8-ad52-581861ba0629" />
 
