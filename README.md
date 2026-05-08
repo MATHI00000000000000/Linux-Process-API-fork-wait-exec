@@ -23,6 +23,7 @@ Test the C Program for the desired output.
 # PROGRAM:
 
 ## C Program to create new process using Linux API system calls fork() and getpid() , getppid() and to print process ID and parent Process ID using Linux API system calls
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -41,6 +42,7 @@ int main() {
     }
     return 0;
 }
+```
 
 ##OUTPUT
 <img width="798" height="186" alt="image" src="https://github.com/user-attachments/assets/a685c78f-be00-49f8-ad52-581861ba0629" />
