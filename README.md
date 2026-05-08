@@ -55,7 +55,7 @@ int main() {
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
-
+```
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -97,6 +97,7 @@ int main() {
     printf("Done.\n");
     return 0;
 }
+```
 ##OUTPUT
 
 <img width="718" height="337" alt="image" src="https://github.com/user-attachments/assets/aadc6637-7e01-4af6-b133-1f7190afe467" />
