@@ -23,6 +23,7 @@ Test the C Program for the desired output.
 # PROGRAM:
 
 ## C Program to create new process using Linux API system calls fork() and getpid() , getppid() and to print process ID and parent Process ID using Linux API system calls
+
 ```
 #include <stdio.h>
 #include <stdlib.h>
@@ -42,11 +43,12 @@ int main() {
     }
     return 0;
 }
+
 ```
 
 ##OUTPUT
-<img width="798" height="186" alt="image" src="https://github.com/user-attachments/assets/a685c78f-be00-49f8-ad52-581861ba0629" />
 
+![alt text](image.png)
 
 
 
@@ -55,6 +57,7 @@ int main() {
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
+
 ```
 
 #include <stdio.h>
@@ -97,10 +100,12 @@ int main() {
     printf("Done.\n");
     return 0;
 }
+
+
 ```
 ##OUTPUT
+![alt text](image-1.png)
 
-<img width="718" height="337" alt="image" src="https://github.com/user-attachments/assets/aadc6637-7e01-4af6-b133-1f7190afe467" />
 
 # RESULT:
 The programs are executed successfully.
